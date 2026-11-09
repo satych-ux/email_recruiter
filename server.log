@@ -1,0 +1,14 @@
+ Recruiter Mailer Webhook Server running on http://0.0.0.0:8080
+
+[Test Ping Received] MacroDroid connected successfully! (Payload: '{notification}')
+[Server] 127.0.0.1 - "POST / HTTP/1.1" 200 -
+
+[Test Ping Received] MacroDroid connected successfully! (Payload: '{notification}')
+[Server] 127.0.0.1 - "POST / HTTP/1.1" 200 -
+
+[Test Ping Received] MacroDroid connected successfully! (Payload: '{notification}')
+[Server] 127.0.0.1 - "POST / HTTP/1.1" 200 -
+
+[Webhook Received] Found recipient: flutter.satyam@gmail.com
+SUCCESS: Email successfully sent to flutter.satyam@gmail.com
+[Server] 127.0.0.1 - "POST / HTTP/1.1" 200 -

@@ -1,0 +1,9 @@
+{
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "sender_email": "satyamchourasia1996@gmail.com",
+  "sender_password": "qdtg aifx bnzs upuk",
+  "subject": "Senior Flutter Engineer - Immediately Available to join | 6+ YOE",
+  "template": "Hello,\n\nPortfolio: https://satyam-chourasia.vercel.app/\nGitHub: https://github.com/satych-ux\n\nImmediately Available | 6+ YOE in Flutter\n\nI am really confident in my Flutter skills, let's connect soon.\n\n7415585662\n\nRegards,\nSatyam Chourasia",
+  "attachment_path": "/Users/satyamchourasia/Downloads/Satyam_Flutter_Resume _log_6+YOE-1.pdf"
+}
